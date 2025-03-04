@@ -1,0 +1,4 @@
+*.pyc
+**/wandb*/**
+**/wandb*
+scw-infra/
