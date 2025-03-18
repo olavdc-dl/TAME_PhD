@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+exp/
+hist/
+data/
+data
+logs/
+benchmarks/
+ckpts/
+wandb/
+
+.snakemake/
+*_frag2neighbors.pickle
+*_pair2score.pickle
